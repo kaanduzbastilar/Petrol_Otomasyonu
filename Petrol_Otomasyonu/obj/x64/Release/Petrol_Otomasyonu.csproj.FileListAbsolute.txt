@@ -1,0 +1,16 @@
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Release\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Release\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Release\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.akaryakit.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.mainform.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Release\Petrol_Otomasyonu.pdb

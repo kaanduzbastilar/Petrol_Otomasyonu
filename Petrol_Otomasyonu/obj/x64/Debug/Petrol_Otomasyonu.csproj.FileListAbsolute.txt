@@ -1,0 +1,106 @@
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit_islemleri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Form1.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (6)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit_islemleri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Form1.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit_islemleri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Form1.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu - Kopya (4) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.mainform.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2)\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.mainform.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+C:\Users\duzba\Desktop\Petrol_Otomasyonu BİTTİ - Kopya (2) - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe.config
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.exe
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\bin\x64\Debug\Petrol_Otomasyonu.pdb
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csprojAssemblyReference.cache
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.mainform.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.menu.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.musteri.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.personel.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.Properties.Resources.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.satis.resources
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.GenerateResource.cache
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.CoreCompileInputs.cache
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.exe
+E:\2021 ÖDEV\Petrol_Otomasyonu BİTTİ - Kopya (5) - Kopya - Kopya\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.pdb
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.akaryakit.resources
+C:\Users\duzba\Desktop\Petrol_Otomasyonu\Petrol_Otomasyonu\obj\x64\Debug\Petrol_Otomasyonu.mainform.resources
