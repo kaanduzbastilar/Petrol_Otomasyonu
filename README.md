@@ -95,7 +95,7 @@ Kullanıcı Adı - User Name: personel1
 **veya - or**
 
 
-[Download Release](https://github.com/kaanduzbastilar/Petrol_Otomasyonu.git)
+[Download Release]([https://github.com/kaanduzbastilar/Petrol_Otomasyonu.git](https://github.com/kaanduzbastilar/Petrol_Otomasyonu/releases/tag/Release))
 
 
 **[TR]** Yukarıdaki link üzerinden release sürümünü yükleyebilirsiniz.
