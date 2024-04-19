@@ -1,10 +1,8 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/70735387/206920020-630bf435-cc02-4f1b-84ec-05499992d403.png" alt="Petrol Otomasyonu - Fuel Automation" width="200">
-</div>
-
-
-## Petrol Otomasyonu - Fuel Automation
+    ## Petrol Otomasyonu - Fuel Automation
 **Turkish**
+</div>
 
 
 C# ve SQL kullanılarak geliştirilmiştir, benzinlik takip otomasyonudur.
