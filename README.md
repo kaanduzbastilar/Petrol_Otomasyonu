@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h1>Petrol Otomasyonu - Fuel Automation</h1>
     <p><strong>Turkish</strong></p>
     <p>C# ve SQL kullanılarak geliştirilmiştir, benzinlik takip otomasyonudur.</p>
