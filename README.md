@@ -1,7 +1,13 @@
-<div style="display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/70735387/206920020-630bf435-cc02-4f1b-84ec-05499992d403.png" alt="Petrol Otomasyonu - Fuel Automation" style="width: 200px; height: auto; margin-right: 20px;">
-    <h1 style="margin-bottom: 0;">Petrol Otomasyonu - Fuel Automation</h1>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/70735387/206920020-630bf435-cc02-4f1b-84ec-05499992d403.png" alt="Petrol Otomasyonu - Fuel Automation" style="width: 200px;">
+    </td>
+    <td>
+      <h1 style="margin-top: 0;">Petrol Otomasyonu - Fuel Automation</h1>
+    </td>
+  </tr>
+</table>
 
 **Turkish**
 
