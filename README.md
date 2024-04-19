@@ -9,6 +9,8 @@
   </tr>
 </table>
 
+<div align="center">
+
 **Turkish**
 
 C# ve SQL kullanılarak geliştirilmiştir, benzinlik takip otomasyonudur.
@@ -116,4 +118,6 @@ Kullanıcı Adı - User Name: personel1
 
 
 **[EN]** You can download the release version from the link above.
+
+</div>
   
