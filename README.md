@@ -9,7 +9,6 @@
   </tr>
 </table>
 
-<div align="center">
 
 **Turkish**
 
@@ -118,6 +117,3 @@ Kullanıcı Adı - User Name: personel1
 
 
 **[EN]** You can download the release version from the link above.
-
-</div>
-  
