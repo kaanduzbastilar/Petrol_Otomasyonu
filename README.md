@@ -1,5 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/70735387/206920020-630bf435-cc02-4f1b-84ec-05499992d403.png">
 
+---
 
 # Petrol Otomasyonu - Fuel Automation
 **Turkish**
